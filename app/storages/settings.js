@@ -11,7 +11,7 @@ Storage.reopenClass({
       settings: {
         language: 'en',
         about: {
-          version: "0.5"
+          version: "0.5.1"
         },
         experience: {
           distanceUnits: "K",

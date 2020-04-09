@@ -1,0 +1,1 @@
+ember cordova:build --environment=production --platform=android --release
